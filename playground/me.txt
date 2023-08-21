@@ -1,0 +1,5 @@
+{{#user}}
+Name:Sumitha
+Skills:HTML,CSS,JS,REACT JS
+Email:msunitha5268@gmail.com
+{{/user}}
